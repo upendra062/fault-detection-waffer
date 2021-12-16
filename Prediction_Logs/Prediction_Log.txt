@@ -1,0 +1,124 @@
+2021-03-20/22:42:32		Start of Validation on files for prediction!!
+2021-03-20/22:42:37		Raw Data Validation Complete!!
+2021-03-20/22:42:37		Starting Data Transforamtion!!
+2021-03-20/22:42:40		DataTransformation Completed!!!
+2021-03-20/22:42:40		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-03-20/22:43:47		Table creation Completed!!
+2021-03-20/22:43:47		Insertion of Data into Table started!!!!
+2021-03-20/22:45:41		Insertion in Table completed!!!
+2021-03-20/22:45:41		Deleting Good Data Folder!!!
+2021-03-20/22:45:41		Good_Data folder deleted!!!
+2021-03-20/22:45:41		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-03-20/22:45:41		Bad files moved to archive!! Bad folder Deleted!!
+2021-03-20/22:45:41		Validation Operation completed!!
+2021-03-20/22:45:41		Extracting csv file from table
+2021-03-20/22:45:41		Start of Prediction
+2021-03-20/22:45:41		Entered the get_data method of the Data_Getter class
+2021-03-20/22:45:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-20/22:45:41		Entered the is_null_present method of the Preprocessor class
+2021-03-20/22:45:41		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-20/22:45:41		Entered the impute_missing_values method of the Preprocessor class
+2021-03-20/22:45:42		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-03-20/22:45:42		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-20/22:45:43		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-20/22:45:43		Entered the remove_columns method of the Preprocessor class
+2021-03-20/22:45:43		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-03-20/22:45:43		Entered the load_model method of the File_Operation class
+2021-03-20/22:45:43		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-03-20/22:45:43		Entered the find_correct_model_file method of the File_Operation class
+2021-03-20/22:45:43		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2021-03-20/22:45:43		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2021-03-20/22:45:43		Error occured while running the prediction!! Error:: 
+2021-03-20/22:48:08		Start of Validation on files for prediction!!
+2021-03-20/22:48:13		Raw Data Validation Complete!!
+2021-03-20/22:48:13		Starting Data Transforamtion!!
+2021-03-20/22:48:16		DataTransformation Completed!!!
+2021-03-20/22:48:16		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-03-20/22:49:14		Table creation Completed!!
+2021-03-20/22:49:14		Insertion of Data into Table started!!!!
+2021-03-20/22:50:19		Insertion in Table completed!!!
+2021-03-20/22:50:19		Deleting Good Data Folder!!!
+2021-03-20/22:50:19		Good_Data folder deleted!!!
+2021-03-20/22:50:19		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-03-20/22:50:19		Bad files moved to archive!! Bad folder Deleted!!
+2021-03-20/22:50:19		Validation Operation completed!!
+2021-03-20/22:50:19		Extracting csv file from table
+2021-03-20/22:50:20		Start of Prediction
+2021-03-20/22:50:20		Entered the get_data method of the Data_Getter class
+2021-03-20/22:50:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-20/22:50:20		Entered the is_null_present method of the Preprocessor class
+2021-03-20/22:50:20		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-20/22:50:20		Entered the impute_missing_values method of the Preprocessor class
+2021-03-20/22:50:21		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-03-20/22:50:21		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-20/22:50:22		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-20/22:50:22		Entered the remove_columns method of the Preprocessor class
+2021-03-20/22:50:22		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-03-20/22:50:22		Entered the load_model method of the File_Operation class
+2021-03-20/22:50:22		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-03-20/22:50:22		Entered the find_correct_model_file method of the File_Operation class
+2021-03-20/22:50:22		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2021-03-20/22:50:22		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2021-03-20/22:50:22		Error occured while running the prediction!! Error:: 
+2021-03-20/23:06:02		Start of Validation on files for prediction!!
+2021-03-20/23:06:06		Raw Data Validation Complete!!
+2021-03-20/23:06:06		Starting Data Transforamtion!!
+2021-03-20/23:06:10		DataTransformation Completed!!!
+2021-03-20/23:06:10		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-03-20/23:07:07		Table creation Completed!!
+2021-03-20/23:07:07		Insertion of Data into Table started!!!!
+2021-03-20/23:08:14		Insertion in Table completed!!!
+2021-03-20/23:08:14		Deleting Good Data Folder!!!
+2021-03-20/23:08:14		Good_Data folder deleted!!!
+2021-03-20/23:08:14		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-03-20/23:08:14		Bad files moved to archive!! Bad folder Deleted!!
+2021-03-20/23:08:14		Validation Operation completed!!
+2021-03-20/23:08:14		Extracting csv file from table
+2021-03-20/23:08:15		Start of Prediction
+2021-03-20/23:08:15		Entered the get_data method of the Data_Getter class
+2021-03-20/23:08:15		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-20/23:08:15		Entered the is_null_present method of the Preprocessor class
+2021-03-20/23:08:15		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-20/23:08:15		Entered the impute_missing_values method of the Preprocessor class
+2021-03-20/23:08:16		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-03-20/23:08:16		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-20/23:08:17		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-20/23:08:17		Entered the remove_columns method of the Preprocessor class
+2021-03-20/23:08:17		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-03-20/23:08:17		Entered the load_model method of the File_Operation class
+2021-03-20/23:08:17		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-03-20/23:08:17		Entered the find_correct_model_file method of the File_Operation class
+2021-03-20/23:08:17		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2021-03-20/23:08:17		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2021-03-20/23:08:17		Error occured while running the prediction!! Error:: 
+2021-03-20/23:14:34		Start of Validation on files for prediction!!
+2021-03-20/23:14:38		Raw Data Validation Complete!!
+2021-03-20/23:14:38		Starting Data Transforamtion!!
+2021-03-20/23:14:42		DataTransformation Completed!!!
+2021-03-20/23:14:42		Creating Prediction_Database and tables on the basis of given schema!!!
+2021-03-20/23:15:42		Table creation Completed!!
+2021-03-20/23:15:42		Insertion of Data into Table started!!!!
+2021-03-20/23:16:59		Insertion in Table completed!!!
+2021-03-20/23:16:59		Deleting Good Data Folder!!!
+2021-03-20/23:16:59		Good_Data folder deleted!!!
+2021-03-20/23:16:59		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-03-20/23:16:59		Bad files moved to archive!! Bad folder Deleted!!
+2021-03-20/23:16:59		Validation Operation completed!!
+2021-03-20/23:16:59		Extracting csv file from table
+2021-03-20/23:16:59		Start of Prediction
+2021-03-20/23:16:59		Entered the get_data method of the Data_Getter class
+2021-03-20/23:16:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-20/23:16:59		Entered the is_null_present method of the Preprocessor class
+2021-03-20/23:16:59		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-20/23:16:59		Entered the impute_missing_values method of the Preprocessor class
+2021-03-20/23:17:00		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2021-03-20/23:17:00		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-20/23:17:01		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-20/23:17:01		Entered the remove_columns method of the Preprocessor class
+2021-03-20/23:17:01		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-03-20/23:17:01		Entered the load_model method of the File_Operation class
+2021-03-20/23:17:01		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2021-03-20/23:17:02		Entered the find_correct_model_file method of the File_Operation class
+2021-03-20/23:17:02		Exception occured in find_correct_model_file method of the Model_Finder class. Exception message:  'File_Operation' object has no attribute 'model_name'
+2021-03-20/23:17:02		Exited the find_correct_model_file method of the Model_Finder class with Failure
+2021-03-20/23:17:02		Error occured while running the prediction!! Error:: 
